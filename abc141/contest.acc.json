@@ -9,7 +9,11 @@
       "id": "abc141_a",
       "label": "A",
       "title": "Weather Prediction ",
-      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_a"
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc141_b",
